@@ -2,6 +2,7 @@
 var btn = document.querySelector("button")
 var btn2 = document.querySelector("button")
 var btn3 = document.querySelector("button")
+var btn3 = document.querySelector("input")
 
 btn.onclick = (e) => {
     e.preventDefault()
